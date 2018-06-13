@@ -14,4 +14,4 @@ Features
 
 I encourage that you put more information on this readme file instead of leaving it as is. See [How to make a README file](http://www.darwinbiler.com/designing-and-making-the-readme-file-for-your-github-repository/) for more info.  
 
-:honeybee: ** Important:** This project is a fork of [Buonzz's Composer Library.](https://github.com/buonzz/composer-library-template) All I've done is upgraded it for PHP7 and amended depreciated functions from PHPUnit. All credit for this project belongs to [Darwin Biler](https://github.com/buonzz).
+:honeybee: **Important:** This project is a fork of [Buonzz's Composer Library.](https://github.com/buonzz/composer-library-template) All I've done is upgraded it for PHP7 and amended depreciated functions from PHPUnit. All credit for this project belongs to [Darwin Biler](https://github.com/buonzz).
